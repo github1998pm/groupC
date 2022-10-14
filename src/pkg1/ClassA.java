@@ -11,6 +11,7 @@ public class ClassA {
 		{
 			reverseString =reverseString+a.charAt(i);
 			//System.out.print(a.charAt(i));
+		
 		}
 System.out.println(reverseString);
 
